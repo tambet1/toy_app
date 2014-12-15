@@ -1,1 +1,1 @@
-root application#hello
+root 'application#hello'
